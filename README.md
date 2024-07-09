@@ -9,5 +9,3 @@
   <img src="https://img.shields.io/badge/CSS-000?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
-
-// Código omitido. 
